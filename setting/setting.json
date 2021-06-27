@@ -1,12 +1,12 @@
 {
   "name": {
     "CN": {
-      "title": "mia-button",
-      "fullName": ""
+      "title": "Mia-Button",
+      "fullName": "Mia-runis"
     },
     "EN": {
-      "title": "mia-button",
-      "fullName": ""
+      "title": "Mia-Button",
+      "fullName": "Mia-runis"
     }
   },
   "readme": "",
@@ -33,7 +33,7 @@
     "info": [
       "mia foo↑foo↑"
     ],
-    "githubUrl": ""
+    "githubUrl": "https://github.com/Timolop233/Mia-Button"
   },
   "console": {
     "text": "Follow Mia!!!",

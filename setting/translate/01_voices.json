@@ -55,5 +55,24 @@
       "time": "",
       "url": ""
     }
+  },
+  {
+    "name": "你邪了门",
+    "path": "你邪了门.mp3",
+    "date": "2021-06-27",
+    "translate": {
+      "zh-CN": "你邪了门",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
   }
 ]
