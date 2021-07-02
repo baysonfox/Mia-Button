@@ -74,5 +74,100 @@
       "time": "",
       "url": ""
     }
+  },
+  {
+    "name": "起床气",
+    "path": "起床气.mp3",
+    "date": "2021-06-27",
+    "translate": {
+      "zh-CN": "起床气",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "就是面啦",
+    "path": "就是面啦.mp3",
+    "date": "2021-06-27",
+    "translate": {
+      "zh-CN": "就是面啦",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "京华D了！",
+    "path": "京华D了！.mp3",
+    "date": "2021-06-27",
+    "translate": {
+      "zh-CN": "京华D了！",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "哎呀，你不要看了",
+    "path": "哎呀，你不要看了.mp3",
+    "date": "2021-06-27",
+    "translate": {
+      "zh-CN": "哎呀，你不要看了",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "official DD",
+    "path": "official DD.mp3",
+    "date": "2021-06-27",
+    "translate": {
+      "zh-CN": "official DD",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
   }
 ]
