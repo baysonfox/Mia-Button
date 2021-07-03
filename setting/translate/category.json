@@ -5,5 +5,19 @@
       "zh-CN": "可爱mia~",
       "en-US": ""
     }
+  },
+  {
+    "name": "最高指令",
+    "translate": {
+      "zh-CN": "最高指令",
+      "en-US": ""
+    }
+  },
+  {
+    "name": "方言",
+    "translate": {
+      "zh-CN": "方言",
+      "en-US": ""
+    }
   }
 ]
