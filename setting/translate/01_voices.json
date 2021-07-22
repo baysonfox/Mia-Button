@@ -274,5 +274,125 @@
       "time": "",
       "url": ""
     }
+  },
+  {
+    "name": "你不配",
+    "path": "你不配.mp3",
+    "date": "2021-07-22",
+    "translate": {
+      "zh-CN": "你不配",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "可爱的歌",
+    "path": "可爱的歌.mp3",
+    "date": "2021-07-22",
+    "translate": {
+      "zh-CN": "可爱的歌",
+      "en-US": ""
+    },
+    "category": "娅歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "可爱的歌（哼唱版）",
+    "path": "可爱的歌（哼唱版）.mp3",
+    "date": "2021-07-22",
+    "translate": {
+      "zh-CN": "可爱的歌（哼唱版）",
+      "en-US": ""
+    },
+    "category": "娅歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "mia宝宝哭",
+    "path": "宝宝哭.mp3",
+    "date": "2021-07-22",
+    "translate": {
+      "zh-CN": "mia宝宝哭",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "短rap",
+    "path": "短rap.mp3",
+    "date": "2021-07-22",
+    "translate": {
+      "zh-CN": "短rap",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "米娅圣京（前半）",
+    "path": "米娅圣京（前半）.mp3",
+    "date": "2021-07-22",
+    "translate": {
+      "zh-CN": "米娅圣京（前半）",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "米娅才没有用变声器",
+    "path": "米娅才没有用变声器.mp3",
+    "date": "2021-07-22",
+    "translate": {
+      "zh-CN": "米娅才没有用变声器[有点长]",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "赢了，赢了，赢了！",
+    "path": "赢了，赢了，赢了！.mp3",
+    "date": "2021-07-22",
+    "translate": {
+      "zh-CN": "赢了，赢了，赢了！",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
   }
 ]
