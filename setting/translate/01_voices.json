@@ -709,5 +709,20 @@
       "time":"",
       "url":""
     }
+  }，
+  {
+    "name":"你不配-老干妈",
+    "path":"你不配老干妈.mp3",
+    "date":"2021-9-19",
+    "translate":{
+      "zh-CN":"你不配！（指老干妈）",
+      "en-US":"You don't deserve it! (Lao Gan Ma)"
+    },
+    "category":"kawayi",
+    "mark":{
+      "title":"",
+      "time":"",
+      "url":""
+    }
   }
 ]
